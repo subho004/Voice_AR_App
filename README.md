@@ -38,34 +38,46 @@ To run the Augmented Reality Car Showcase App, follow these steps:
 ## Reference Video
 
 
-https://github.com/subho004/Voice_AR_App/assets/91646273/099d21c3-d6f3-436c-8d61-aada61ea6ee8
+https://github.com/subho004/Voice_AR_App/assets/91646273/a5d7ca69-0e75-49ca-bec6-8bfa17aa8eda
+
+
 
 
 ## Images
 ### Home Page
-![1](https://github.com/subho004/Voice_AR_App/assets/91646273/3a2236b6-b6ff-49ac-9cd7-687dbc0891d3)
+![1](https://github.com/subho004/Voice_AR_App/assets/91646273/ce194d68-0089-47ed-9f7c-0c6daf969855)
 ### Modes
-![2](https://github.com/subho004/Voice_AR_App/assets/91646273/80e6dd5c-0575-45f4-b29c-ba4769e9eb9d)
+![2](https://github.com/subho004/Voice_AR_App/assets/91646273/127a3d50-bfce-42e7-8748-65eab4c94fdb)
 ### Animations with voice inputs
-![3](https://github.com/subho004/Voice_AR_App/assets/91646273/fb83af70-7bbc-4c86-9947-c28922c3b90c)
+![3](https://github.com/subho004/Voice_AR_App/assets/91646273/7490e666-82e2-4d12-825d-2a402546ab6e)
+
 ### Animations with voice inputs
-![8](https://github.com/subho004/Voice_AR_App/assets/91646273/7ea95070-64a6-4d46-8429-840a7d46d87d)
+![8](https://github.com/subho004/Voice_AR_App/assets/91646273/9f0cf3d7-c935-4415-9809-9926cc09e10f)
+
 ### Animations with voice inputs
-![9](https://github.com/subho004/Voice_AR_App/assets/91646273/c7947cca-095d-4cf1-b5a0-8620a0b89450)
+![9](https://github.com/subho004/Voice_AR_App/assets/91646273/028f29b2-e4a1-439a-b06e-49963401858e)
+
 ### Animations with voice inputs
-![10](https://github.com/subho004/Voice_AR_App/assets/91646273/09e4eac1-89cb-4aa6-8c97-a851961f87f0)
+![10](https://github.com/subho004/Voice_AR_App/assets/91646273/e57081cc-4b54-43d1-bc37-df0348b24c7f)
+
 ### Animations with voice inputs
-![11](https://github.com/subho004/Voice_AR_App/assets/91646273/9a18eb91-5ccc-4978-a1df-d95b2235bebf)
+![11](https://github.com/subho004/Voice_AR_App/assets/91646273/b2498697-dab2-4217-a9dc-07be2fdb79c0)
+
 ### Animations with voice inputs
-![12](https://github.com/subho004/Voice_AR_App/assets/91646273/654e0772-1105-4e09-9579-8591209e756f)
+![12](https://github.com/subho004/Voice_AR_App/assets/91646273/3e25501e-82ad-4e6a-9eae-a8f347356122)
+
 ### Other Models
-![4](https://github.com/subho004/Voice_AR_App/assets/91646273/648348e7-f3e6-408e-b1de-76d6197a34f8)
+![4](https://github.com/subho004/Voice_AR_App/assets/91646273/82056d2b-93ee-484b-9d5b-b35992464e5b)
+
 ### Model 2
-![5](https://github.com/subho004/Voice_AR_App/assets/91646273/f013a9ef-5a92-4695-97b4-824e4919d3cf)
+![5](https://github.com/subho004/Voice_AR_App/assets/91646273/8f5b2018-227b-4800-b20c-6225edebdd09)
+
 ### Animations with voice inputs
-![6](https://github.com/subho004/Voice_AR_App/assets/91646273/73295faa-d622-4243-a190-25fe823f41d3)
+![6](https://github.com/subho004/Voice_AR_App/assets/91646273/50da543f-6c06-42f6-bae7-b3d2b73ed070)
+
 ### Animations with voice inputs
-![7](https://github.com/subho004/Voice_AR_App/assets/91646273/1328b2a6-c03e-4c45-9ceb-ff2d0e3a7982)
+![7](https://github.com/subho004/Voice_AR_App/assets/91646273/ea94d030-38f9-48d7-9d5f-ea2da188a6c5)
+
 
 
 ## Contribution
