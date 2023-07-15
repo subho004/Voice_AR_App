@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.ptc.vuforia.engine": {
+      "tarball": {
+        "hash": "9accda8169f2",
+        "mtime": 1656029486000,
+        "size": 235854681,
+        "localPath": "D:\\AR\\AR 1\\Envision\\ENVISION\\Packages\\com.ptc.vuforia.engine-10.8.4.tgz"
+      }
+    }
+  }
+}
