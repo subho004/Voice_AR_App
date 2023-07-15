@@ -1,0 +1,45 @@
+{
+    "name": "VuforiaScripts",
+    "references": [
+        "Unity.ugui",
+        "Microsoft.MixedReality.OpenXR",
+        "Unity.XR.ARFoundation",
+        "Unity.XR.ARSubsystems",
+        "Unity.XR.Management",
+        "Unity.XR.WindowsMixedReality"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "iOS",
+        "Lumin",
+        "macOSStandalone",
+        "WSA",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "4.0.0",
+            "define": "ARFOUNDATION_DEFINED"
+        },
+        {
+            "name": "com.unity.xr.windowsmr",
+            "expression": "1.0.0",
+            "define": "WINDOWS_XR_ENABLED"
+        },
+        {
+            "name": "com.microsoft.mixedreality.openxr",
+            "expression": "0.0.0",
+            "define": "OPEN_XR_ENABLED"
+        }
+    ],
+    "noEngineReferences": false
+}
